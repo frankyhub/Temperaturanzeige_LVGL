@@ -46,6 +46,20 @@
 | -------- | -------- | 
 ---
 
+
+| DS18B20 | ESP32 | 
+| -------- | -------- | 
+| Vcc|   3,3V| 
+| Signal	|   GPIO 27| 
+| GND | 	  GND| 
+| -------- | -------- | 
+---
+
+![Bild](pic/DS18B20.png)
+
+---
+
+
 <div style="position:absolute; left:2cm; ">   
 <ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
 </div>  
