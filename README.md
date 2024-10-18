@@ -16,7 +16,7 @@
 ![Bild](pic/Temperaturanzeige.png)
 
 
-## Button, Toggle, Sliger
+## Button, Toggle, Slider
 
 
 ![Bild](pic/Button.png)
