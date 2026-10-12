@@ -8,16 +8,13 @@
 <a href="https://github.com/frankyhub/Temperaturanzeige_LVGL/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Temperaturanzeige_LVGL)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Temperaturanzeige_LVGL)|<a href="https://github.com/frankyhub/Temperaturanzeige_LVGL/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Temperaturanzeige_LVGL)|<a href="https://github.com/frankyhub/Temperaturanzeige_LVGL/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Temperaturanzeige_LVGL)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%20001-blue)|
 |![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Temperaturanzeige_LVGL)| <a href="https://github.com/frankyhub/Temperaturanzeige_LVGL/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Temperaturanzeige_LVGL/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 
+<img src="pic/Button.png" width="500"> 
+<br> <br>
+
 <img src="pic/Temperaturanzeige.png" width="500"> 
 <br> <br>
 
 </div>
-
-
-## Button, Toggle, Slider
-
-<img src="pic/Button.png" width="500"> 
-<br> <br>
 
 ## Verdrahtung
 
